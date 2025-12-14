@@ -1,7 +1,7 @@
 # PyTorch Learning Rate Schedulers Summaries
 
-PyTorchの`torch.optim.lr_scheduler`モジュールに含まれる主要なスケジューラの一覧です。
-まずは全体の比較をご覧ください。詳細なパラメータ等は表の下にまとめています。
+PyTorchの`torch.optim.lr_scheduler`モジュールに含まれる主要なスケジューラの一覧。
+詳細なパラメータ等は表の下にまとめています。
 
 ## 比較一覧表
 
